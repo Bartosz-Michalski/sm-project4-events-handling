@@ -11,7 +11,6 @@ const changeColor = (e) => {
   //     red -= 2;
   //     green -= 2;
   //     blue -= 2;
-
   //     document.body.style.backgroundColor = `rgb(${red}, ${green}, ${blue}`;
   //   } else if (e.keyCode === 38) {
   //     red += 2;
