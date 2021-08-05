@@ -8,6 +8,7 @@ const changeColor = (e) => {
   //e.keyCode
   //38 - arrow up
   //40 - arrow down
+
   //********** Conditional statement - if **********
 
   //   if (e.keyCode === 38 && red < 255) {
@@ -21,6 +22,7 @@ const changeColor = (e) => {
   //     blue -= 2;
   //     document.body.style.backgroundColor = `rgb(${red}, ${green}, ${blue}`;
   //   }
+
   //********** Conditional statement - switch **********
 
   switch (e.keyCode) {
